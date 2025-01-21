@@ -9,4 +9,3 @@ I'm intimately experienced with Rust, TypeScript, and React (+ HTML, CSS, & JS),
 | Favorite language | Rust 🦀 |
 | Favorite activities | Hiking, Classical Music 🎼, Piano 🎹, Botany 🌿 |
 | Favorite artists | Prokofiev, Grieg, Beethoven |
-| Background | Formerly a student in "pure" Mathematics |
